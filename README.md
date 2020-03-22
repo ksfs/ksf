@@ -1,2 +1,1 @@
-# kstore-user
-kstore UserStorageController
+# ksf
